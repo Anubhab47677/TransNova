@@ -1,4 +1,4 @@
-# Note: This model was developed using GoogleCollab
+# Note: The model is developed using GoogleCollab
 
 Install Libraries
 """
