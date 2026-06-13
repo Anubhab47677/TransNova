@@ -1,0 +1,4 @@
+Text Type,M2M100 BLEU,NLLB BLEU
+News,100.0,100.0
+Technical,27.05,59.46
+Conversational,19.0,100.0
