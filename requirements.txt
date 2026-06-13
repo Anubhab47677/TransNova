@@ -1,7 +1,0 @@
-torch
-transformers
-sentencepiece
-sacrebleu
-accelerate
-gradio
-pandas
